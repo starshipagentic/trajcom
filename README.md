@@ -1,2 +1,3 @@
 # trajcom
-Placeholder repo for the trajcom project
+
+Placeholder package. The `trajcom` name is reserved for a future project.
